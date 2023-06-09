@@ -1,1 +1,1 @@
-echo "Hello World and Niko"
+echo "Hello World and ${name}"
